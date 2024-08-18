@@ -3,12 +3,12 @@
 
 # Minha Jornada de Aprendizado em Programação e Transição de Carreira
 
-Olá! Meu nome é [Bruna Lima] e este repositório documenta minha jornada de aprendizado em programação enquanto faço a transição de carreira de [Administração financeira ] para [Developement Back End]. Aqui, você encontrará recursos, projetos e reflexões sobre o que aprendi ao longo do caminho.
+Olá! Meu nome é [Bruna Lima] e este repositório documenta minha jornada de aprendizado em programação enquanto faço a transição de carreira de [Administração financeira ] para [Desenvolvedora Back End]. Aqui, você encontrará recursos, projetos e reflexões sobre o que aprendi ao longo do caminho.
 
 ## Objetivos
 
 - Aprender os fundamentos da programação.
-- Desenvolver habilidades em [linguagens de programação ou tecnologias específicas, como Java, JavaScript, etc.].
+- Desenvolver habilidades em [linguagens de programação ou tecnologias específicas, como Java, Python, etc.].
 - Criar projetos práticos para aplicar o conhecimento adquirido.
 - Compartilhar recursos e dicas úteis para outros que estão fazendo a mesma transição.
 
